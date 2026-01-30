@@ -1,0 +1,7 @@
+[project]
+name = "fda-warning-letter-analysis"
+version = "0.1.0"
+description = "Analysis of FDA Warning Letters issued to medical device manufacturers and CDMOs, quantifying how frequently inadequate root cause analysis is cited as a regulatory violation."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
