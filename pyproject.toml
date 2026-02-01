@@ -4,4 +4,13 @@ version = "0.1.0"
 description = "Analysis of FDA Warning Letters issued to medical device manufacturers and CDMOs, quantifying how frequently inadequate root cause analysis is cited as a regulatory violation."
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "ipywidgets>=8.1.8",
+    "matplotlib>=3.10.8",
+    "ollama>=0.6.1",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.0",
+    "requests>=2.32.5",
+    "tqdm>=4.67.2",
+]

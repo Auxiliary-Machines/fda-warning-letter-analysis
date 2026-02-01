@@ -1,0 +1,26 @@
+{
+  "analysis_date": "January 2025",
+  "data_range": "July 2022 - January 2025",
+  "total_letters_analyzed": 417,
+  "rca_related_count": 200,
+  "rca_related_percentage": 48.0,
+  "categories": {
+    "No investigation conducted": {
+      "count": 51,
+      "percentage": 12.2
+    },
+    "Investigation was inadequate": {
+      "count": 67,
+      "percentage": 16.1
+    },
+    "Root cause not identified": {
+      "count": 180,
+      "percentage": 43.2
+    },
+    "CAPA did not address root cause": {
+      "count": 26,
+      "percentage": 6.2
+    }
+  },
+  "llm_processed": 200
+}
